@@ -33,13 +33,13 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/pututdev">
+<a href="https://github.com/RvlDX">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pututdev&theme=radical&border=7F3FBF&background=0D1117" alt="Putut Priambodo Activity github"/>
 </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/pututdev">
+<a href="https://github.com/RvlDX">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pututdev&theme=radical" alt="Putut@dev GitHub Contribution"/>
 </a>
 </p>
@@ -47,7 +47,6 @@
 <a>
 <a href="https://github.com/pututdev"><img alt="Putut Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=pututdev&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 <a href="https://github.com/pututdev"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pututdev&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-<br/>
 </a>
 
 ### ⚙️ &nbsp;Detail My Activity On Github
