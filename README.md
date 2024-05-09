@@ -44,7 +44,7 @@
 
 <p align="center">
 <a href="https://github.com/RvlDX">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RvlDX&theme=radical" alt="RevolverDX GitHub Contribution"/>
+<img src="https://github-profile-summary-cards.vercel.app/api?username=RvlDX&theme=radical" alt="RevolverDX GitHub Contribution"/>
 </a>
 </p>
 
