@@ -27,20 +27,17 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-3C873A?style=flat&&labelColor=black&logo=node.js&logoColor=3C873A)
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=flat)
 
-
----
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/RvlDX">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pututdev&theme=radical&border=7F3FBF&background=0D1117" alt="Putut Priambodo Activity github"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RvlDX&theme=radical&border=7F3FBF&background=0D1117" alt="RevolverDX Activity github"/>
 </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/RvlDX">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pututdev&theme=radical" alt="Putut@dev GitHub Contribution"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RvlDX&theme=radical" alt="RevolverDX GitHub Contribution"/>
 </a>
 </p>
 
