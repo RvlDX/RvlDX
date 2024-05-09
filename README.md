@@ -2,6 +2,10 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=RvlDX&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
+<a href="https://komarev.com/ghpvc/?username=pututdev">
+<img align="right" src="https://img.shields.io/github/followers/RvlDX.svg?style=social&label=Follow&maxAge=2592000" alt="Profile visitor" />
+</a>
+
 
 <h1 align="center">&#10022; Hi I'm Muhammad Awaluddin Azhari Ihsan &nbsp;&#10022;</h1>
 
