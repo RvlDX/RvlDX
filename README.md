@@ -63,10 +63,9 @@
 <div>
  <div>
   <p align="right">
-    
-   &nbsp;&#10022; Feel free to reach me at: &#10022;
 
-   &nbsp; 
+   &nbsp;&#10022; Feel free to reach me at:;
+
    <a href="https://discord.com/invite/T4m72sbF" target="_blank"><img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=flat&logo=discord&logoColor=white" /></a>
    <a href="https://www.linkedin.com/in/rvldx?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/-revolverdx-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
    <a href="https://www.instagram.com/muhawlddn_024"><img src="https://img.shields.io/badge/-@muhawlddn_024-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
