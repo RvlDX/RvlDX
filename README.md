@@ -1,4 +1,6 @@
-#<h1 align="center">&#10022; Hi I'm Muhammad Awaluddin Azhari Ihsan &nbsp;&#10022;</h1>
+#RevolverDX
+
+<h1 align="center">&#10022; Hi I'm Muhammad Awaluddin Azhari Ihsan &nbsp;&#10022;</h1>
 
 <div>
   <div>
