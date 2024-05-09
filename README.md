@@ -49,7 +49,7 @@
 </p>
 
 <a href="https://github.com/RvlDX"><img alt="RevolverDX Github Stats" src="https://github-readme-stats.vercel.app/api?username=RvlDX&theme=radical" height="90px" width="49.5%"/></a>
-<a href="https://github.com/RvlDX"><img alt="Al Siam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RvlDX&theme=blue-green" height="100px" width="49.5%"/></a>
+<a href="https://github.com/RvlDX"><img alt="Al Siam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RvlDX&theme=radical" height="100px" width="49.5%"/></a>
 
 
 ### ⚙️ &nbsp;Detail My Activity On Github
