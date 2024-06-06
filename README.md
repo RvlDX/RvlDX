@@ -38,7 +38,7 @@
 
 <p align="center">
 <a href="https://github.com/RvlDX">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RvlDX&theme=radical&border=7F3FBF&background=0D1117" alt="RevolverDX Activity github"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RvlDX&theme=radical&border=7F3FBF&background=0D1117%22%20alt=%22RevolverDX%20Activity%20github"/>
 </a>
 </p>
 
