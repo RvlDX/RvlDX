@@ -1,4 +1,4 @@
-<a href="https://komarev.com/ghpvc/?username=RvlDX">
+o<a href="https://komarev.com/ghpvc/?username=RvlDX">
 <img align="right" src="https://komarev.com/ghpvc/?username=RvlDX&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 <br>
@@ -68,7 +68,7 @@
    &nbsp;&#10022; Feel free to reach me at:
 
    &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://discord.com/invite/T4m72sbF" target="_blank"><img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=flat&logo=discord&logoColor=white" /></a>
+<a href="https://discord.gg/9JFDQq7E" target="_blank"><img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=flat&logo=discord&logoColor=white" /></a>
    <a href="https://www.linkedin.com/in/rvldx?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/-revolverdx-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
    <a href="https://www.instagram.com/muhawlddn_024"><img src="https://img.shields.io/badge/-@muhawlddn_024-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
