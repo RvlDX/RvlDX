@@ -42,12 +42,6 @@ o<a href="https://komarev.com/ghpvc/?username=RvlDX">
 </a>
 </p>
 
-<p align="center">
-<a href="https://github.com/RvlDX">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RvlDX&theme=radical" alt="RevolverDX GitHub Contribution"/>
-</a>
-</p>
-
 <a href="https://github.com/RvlDX"><img alt="RevolverDX Github Stats" src="https://github-readme-stats.vercel.app/api?username=RvlDX&theme=radical" height="100px" width="49.5%"/></a>
 
 <a href="https://github.com/RvlDX"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RvlDX&theme=radical" height="100px" width="49.5%"/></a>
