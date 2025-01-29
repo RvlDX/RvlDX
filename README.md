@@ -46,7 +46,6 @@ o<a href="https://komarev.com/ghpvc/?username=RvlDX">
 
 <a href="https://github.com/RvlDX"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RvlDX&theme=radical" height="100px" width="49.5%"/></a>
 
-
 ### ⚙️ &nbsp;Detail My Activity On Github
 
 ![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=RvlDX&custom_title=RevolverDX%20Daily%20Github%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
